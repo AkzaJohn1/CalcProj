@@ -1,0 +1,28 @@
+This is Calculator
+2019-11-07 12:31:38 - INFO   - logs/glens_dashboard - [Thread-1:calc_def.py:__init__():7] - This is Calculator
+Starting Calculator
+2019-11-07 12:31:38 - INFO   - logs/glens_dashboard - [Thread-1:calc_def.py:calculator():10] - Starting Calculator
+This is Calculator
+2019-11-07 12:36:50 - INFO   - logs/glens_dashboard - [Thread-1:calc_def.py:__init__():7] - This is Calculator
+Starting Calculator
+2019-11-07 12:36:50 - INFO   - logs/glens_dashboard - [Thread-1:calc_def.py:calculator():10] - Starting Calculator
+This is Calculator
+2019-11-07 12:37:28 - INFO   - logs/glens_dashboard - [Thread-1:calc_def.py:__init__():7] - This is Calculator
+Starting Calculator
+2019-11-07 12:37:28 - INFO   - logs/glens_dashboard - [Thread-1:calc_def.py:calculator():10] - Starting Calculator
+This is Calculator
+2019-11-07 12:38:25 - INFO   - logs/glens_dashboard - [Thread-1:calc_def.py:__init__():7] - This is Calculator
+Starting Calculator
+2019-11-07 12:38:25 - INFO   - logs/glens_dashboard - [Thread-1:calc_def.py:calculator():10] - Starting Calculator
+This is Calculator
+2019-11-07 12:38:36 - INFO   - logs/glens_dashboard - [Thread-2:calc_def.py:__init__():7] - This is Calculator
+Starting Calculator
+2019-11-07 12:38:36 - INFO   - logs/glens_dashboard - [Thread-2:calc_def.py:calculator():10] - Starting Calculator
+This is Calculator
+2019-11-07 12:41:39 - INFO   - logs/glens_dashboard - [Thread-1:calc_def.py:__init__():7] - This is Calculator
+Starting Calculator
+2019-11-07 12:41:39 - INFO   - logs/glens_dashboard - [Thread-1:calc_def.py:calculator():10] - Starting Calculator
+This is Calculator
+2019-11-07 12:45:11 - INFO   - logs/glens_dashboard - [Thread-1:calc_def.py:__init__():7] - This is Calculator
+Starting Calculator
+2019-11-07 12:45:11 - INFO   - logs/glens_dashboard - [Thread-1:calc_def.py:calculator():10] - Starting Calculator
